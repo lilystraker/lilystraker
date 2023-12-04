@@ -5,7 +5,7 @@ A computer science student eager to become a software developer
   
 
 - 🔭 I’m currently working on:
-  - <b>Ciphernator</b>: A website that can encrypt secret messages using different ciphers
+  - <a href = "https://github.com/lilystraker/Ciphernator#readme"><b>Ciphernator</b></a>: A website that can encrypt secret messages using different ciphers
 - 🌱 I’ve made:
   - <a href = "https://github.com/lilystraker/StardewValleyFood#readme"><b>Stardew Valley Gift List</b></a>: A program that takes a gift item and generates the preferences of all villagers in the Stardew Valley video game
   - <a href = "https://github.com/lilystraker/MovieBuddy#readme"><b>Movie Manager</b></a>: A mobile application where you can store a database of movies and cinemas
