@@ -1,4 +1,4 @@
-<div align="center"><img src="https://i.ibb.co/F3ZNHKn/greeting-Banner.png" alt="Hi, I'm Lily" border="0">
+<div align="center"><img src="https://i.ibb.co/PjQs76J/greeting-Banner.png" alt="Hi, I'm Lily" border="0">
 <p>A computer science student eager to become a <b>software developer</b></p>
 
   <a href = "https://lilystraker.github.io/TheCoolerPortfolio/">![Website badge](https://img.shields.io/badge/website-%23A1ECBA?style=for-the-badge&labelColor=%23A1ECBA)</a>
@@ -19,3 +19,4 @@
 - I'm currently learning:
   
   ![Django Badge](https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=django&color=%23092E20)
+
