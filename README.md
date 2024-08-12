@@ -1,5 +1,5 @@
 <div align="center"><img src="https://i.ibb.co/PjQs76J/greeting-Banner.png" alt="Hi, I'm Lily" border="0">
-<p>A <b>software development intern</b> studying computer science</p>
+<p>a <b>software developer</b></p>
 
   <a href = "https://lilystraker.github.io/TheCoolerPortfolio/">![Website badge](https://img.shields.io/badge/website-%23A1ECBA?style=for-the-badge&labelColor=%23A1ECBA)</a>
   <a href = "https://www.linkedin.com/in/lilystraker/">![LinkedIn logo](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)</a>
